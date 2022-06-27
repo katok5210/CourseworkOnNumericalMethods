@@ -1,0 +1,13 @@
+﻿  KURS.cpp
+E:\Program\KursMax\KURS\KURS\KURS.cpp(25,20): warning C4101: end: неиспользованная локальная переменная
+E:\Program\KursMax\KURS\KURS\KURS.cpp(59,12): warning C4101: end: неиспользованная локальная переменная
+E:\Program\KursMax\KURS\KURS\KURS.cpp(101,12): warning C4101: end: неиспользованная локальная переменная
+E:\Program\KursMax\KURS\KURS\KURS.cpp(161,16): warning C4305: аргумент: усечение из "const double" в "float"
+E:\Program\KursMax\KURS\KURS\KURS.cpp(163,17): warning C4305: аргумент: усечение из "const double" в "float"
+E:\Program\KursMax\KURS\KURS\KURS.cpp(165,17): warning C4305: аргумент: усечение из "const double" в "float"
+E:\Program\KursMax\KURS\KURS\KURS.cpp(168,16): warning C4305: аргумент: усечение из "const double" в "float"
+E:\Program\KursMax\KURS\KURS\KURS.cpp(170,17): warning C4305: аргумент: усечение из "const double" в "float"
+E:\Program\KursMax\KURS\KURS\KURS.cpp(172,17): warning C4305: аргумент: усечение из "const double" в "float"
+E:\Program\KursMax\KURS\KURS\KURS.cpp(146,8): warning C4101: a: неиспользованная локальная переменная
+E:\Program\KursMax\KURS\KURS\KURS.cpp(147,6): warning C4101: n: неиспользованная локальная переменная
+  KURS.vcxproj -> E:\Program\KursMax\KURS\Debug\KURS.exe
